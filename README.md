@@ -7,7 +7,6 @@ https://facebook.github.io/origami/
 
 ##Patches Included:
 
-* **Hit Area:** improved performance (fps) while using multiple hit area patches.
 * **Swipe Counter:** counts swipes across a layer. Can be used to page through a set number of pages, with a specified page width (ex. swiping through a photos in a photo gallery).
 * **Nexus 5:** Renders a Nexus 5 device on the viewer. Connect a render in image patch with 1080x1920px dimensions.
 * **Tap Cursor:** Renders a tap cursor on the screen. You can pair this with Origami's cursor control to hide OSX's mouse cursor.
