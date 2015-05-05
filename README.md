@@ -1,6 +1,6 @@
 #Moraine
 
-Moraine is a set of useful patches for prototyping user interfaces within Quartz Composer. Although most patches will be free from dependencies, some require Facebook's Quartz Composer:
+Moraine is a set of useful patches for prototyping user interfaces with Quartz Composer and Facebook's Origami plugin:
 
 https://facebook.github.io/origami/
 
@@ -14,3 +14,5 @@ https://facebook.github.io/origami/
 ##Installation:
 
 Download the repo and copy the 'Moraine' folder into your Library > Graphics > Quartz Composer Patches folder.
+
+Facebook's Origami plugin must be installed.
